@@ -5,7 +5,6 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 ## Features
 
 - **Two-Player Mode:** Play against another player on the same device.
-- **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 - **Visual Feedback:** Clear indicators for player turns and winning combinations.
 - **Clean Code:** Well-organized HTML, CSS, and JavaScript for easy understanding and modification.
 
