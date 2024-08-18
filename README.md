@@ -13,6 +13,7 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 - **HTML:** Provides the basic structure of the game.
 - **CSS:** Styles the game board and enhances the visual experience.
 - **JavaScript:** Implements game logic, including move handling and win detection.
+
 ## Demo
 
-Check out the live demo of the game here: [Live Demo](https://ash10blaze.github.io/Tic-Tac-Toe/)
+Check out the live demo of the game here: [Live Demo](https://ashu-dev7.github.io/Tic-Tac-Toe/)
